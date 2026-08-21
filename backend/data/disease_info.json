@@ -1,0 +1,762 @@
+{
+    "Apple___Apple_scab": {
+        "en": {
+            "name": "Apple Scab",
+            "symptoms": "Olive-green to black spots on leaves/fruit.",
+            "treatment": "Fungicides like Captan.",
+            "prevention": "Prune for airflow, remove fallen leaves."
+        },
+        "hi": {
+            "name": "सेब की पपड़ी",
+            "symptoms": "पत्तियों/फलों पर काले धब्बे।",
+            "treatment": "कैप्टन जैसे फफूंदनाशक।",
+            "prevention": "हवा के लिए छंटाई करें।"
+        },
+        "mr": {
+            "name": "सफरचंद खवली",
+            "symptoms": "पानांवर/फळांवर काळे डाग.",
+            "treatment": "कॅप्टन सारखे बुरशीनाशक.",
+            "prevention": "हवा खेळती राहण्यासाठी छाटणी करा."
+        }
+    },
+    "Apple___Black_rot": {
+        "en": {
+            "name": "Apple Black Rot",
+            "symptoms": "Brown spots with concentric rings on leaves, rotting fruit.",
+            "treatment": "Remove infected parts, apply Mancozeb.",
+            "prevention": "Remove dead wood and mummified fruit."
+        },
+        "hi": {
+            "name": "सेब का काला सड़न",
+            "symptoms": "पत्तियों पर भूरे धब्बे, फल का सड़ना।",
+            "treatment": "संक्रमित हिस्से हटाएं, मैनकोज़ेब लगाएं।",
+            "prevention": "सूखी लकड़ी हटा दें।"
+        },
+        "mr": {
+            "name": "सफरचंद काळी सड",
+            "symptoms": "पानांवर तपकिरी डाग, फळ सडणे.",
+            "treatment": "संक्रमित भाग काढा, मँकोझेब लावा.",
+            "prevention": "वाळलेले लाकूड काढा."
+        }
+    },
+    "Apple___Cedar_apple_rust": {
+        "en": {
+            "name": "Cedar Apple Rust",
+            "symptoms": "Yellow-orange spots on leaves.",
+            "treatment": "Fungicide sprays (Myclobutanil).",
+            "prevention": "Remove nearby cedar hosts."
+        },
+        "hi": {
+            "name": "सीडर एप्पल रस्ट",
+            "symptoms": "पत्तियों पर पीले-नारंगी धब्बे।",
+            "treatment": "फफूंदनाशक का छिड़काव।",
+            "prevention": "आसपास के देवदार के पेड़ हटाएं।"
+        },
+        "mr": {
+            "name": "सिडर ऍपल रस्ट",
+            "symptoms": "पानांवर पिवळे-नारिंगी डाग.",
+            "treatment": "बुरशीनाशक फवारणी.",
+            "prevention": "जवळची देवदार झाडे काढा."
+        }
+    },
+    "Apple___healthy": {
+        "en": {
+            "name": "Healthy Apple",
+            "symptoms": "Vibrant green leaves, robust stems, no visible lesions, discoloration, or fungal growth.",
+            "treatment": "No treatment needed. Maintain optimal growth conditions.",
+            "prevention": "Ensure proper spacing, regular watering at soil level, and balanced fertilization."
+        },
+        "hi": {
+            "name": "स्वस्थ Apple",
+            "symptoms": "चमकदार हरी पत्तियां, मजबूत तने, कोई धब्बे या बीमारी के लक्षण नहीं।",
+            "treatment": "किसी उपचार की आवश्यकता नहीं है।",
+            "prevention": "पौधों के बीच सही दूरी रखें, जड़ों में नियमित पानी दें और संतुलित खाद दें।"
+        },
+        "mr": {
+            "name": "निरोगी Apple",
+            "symptoms": "टवटवीत हिरवी पाने, मजबूत खोड, कोणताही डाग किंवा रोगाची लक्षणे नाहीत.",
+            "treatment": "कोणत्याही उपचाराची गरज नाही.",
+            "prevention": "रोपांमध्ये योग्य अंतर ठेवा, मुळांशी पाणी द्या आणि संतुलित खत द्या."
+        }
+    },
+    "Blueberry___healthy": {
+        "en": {
+            "name": "Healthy Blueberry",
+            "symptoms": "Vibrant green leaves, robust stems, no visible lesions, discoloration, or fungal growth.",
+            "treatment": "No treatment needed. Maintain optimal growth conditions.",
+            "prevention": "Ensure proper spacing, regular watering at soil level, and balanced fertilization."
+        },
+        "hi": {
+            "name": "स्वस्थ Blueberry",
+            "symptoms": "चमकदार हरी पत्तियां, मजबूत तने, कोई धब्बे या बीमारी के लक्षण नहीं।",
+            "treatment": "किसी उपचार की आवश्यकता नहीं है।",
+            "prevention": "पौधों के बीच सही दूरी रखें, जड़ों में नियमित पानी दें और संतुलित खाद दें।"
+        },
+        "mr": {
+            "name": "निरोगी Blueberry",
+            "symptoms": "टवटवीत हिरवी पाने, मजबूत खोड, कोणताही डाग किंवा रोगाची लक्षणे नाहीत.",
+            "treatment": "कोणत्याही उपचाराची गरज नाही.",
+            "prevention": "रोपांमध्ये योग्य अंतर ठेवा, मुळांशी पाणी द्या आणि संतुलित खत द्या."
+        }
+    },
+    "Cherry_(including_sour)___Powdery_mildew": {
+        "en": {
+            "name": "Cherry Powdery Mildew",
+            "symptoms": "White powdery fungal growth on leaves.",
+            "treatment": "Sulfur or Potassium Bicarbonate sprays.",
+            "prevention": "Good air circulation, avoid overhead watering."
+        },
+        "hi": {
+            "name": "चेरी चूर्णी फफूंदी",
+            "symptoms": "पत्तियों पर सफेद पाउडर जैसा विकास।",
+            "treatment": "सल्फर का छिड़काव।",
+            "prevention": "हवा का अच्छा प्रवाह रखें।"
+        },
+        "mr": {
+            "name": "चेरी भुरी रोग",
+            "symptoms": "पानांवर पांढरी पावडर.",
+            "treatment": "गंधक फवारणी.",
+            "prevention": "हवा खेळती ठेवा."
+        }
+    },
+    "Cherry_(including_sour)___healthy": {
+        "en": {
+            "name": "Healthy Cherry (including sour)",
+            "symptoms": "Vibrant green leaves, robust stems, no visible lesions, discoloration, or fungal growth.",
+            "treatment": "No treatment needed. Maintain optimal growth conditions.",
+            "prevention": "Ensure proper spacing, regular watering at soil level, and balanced fertilization."
+        },
+        "hi": {
+            "name": "स्वस्थ Cherry (including sour)",
+            "symptoms": "चमकदार हरी पत्तियां, मजबूत तने, कोई धब्बे या बीमारी के लक्षण नहीं।",
+            "treatment": "किसी उपचार की आवश्यकता नहीं है।",
+            "prevention": "पौधों के बीच सही दूरी रखें, जड़ों में नियमित पानी दें और संतुलित खाद दें।"
+        },
+        "mr": {
+            "name": "निरोगी Cherry (including sour)",
+            "symptoms": "टवटवीत हिरवी पाने, मजबूत खोड, कोणताही डाग किंवा रोगाची लक्षणे नाहीत.",
+            "treatment": "कोणत्याही उपचाराची गरज नाही.",
+            "prevention": "रोपांमध्ये योग्य अंतर ठेवा, मुळांशी पाणी द्या आणि संतुलित खत द्या."
+        }
+    },
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+        "en": {
+            "name": "Corn Gray Leaf Spot",
+            "symptoms": "Rectangular pale brown lesions.",
+            "treatment": "Foliar fungicides during early tasseling.",
+            "prevention": "Crop rotation, use resistant hybrids."
+        },
+        "hi": {
+            "name": "मक्का ग्रे लीफ स्पॉट",
+            "symptoms": "आयताकार भूरे घाव।",
+            "treatment": "फफूंदनाशक का छिड़काव।",
+            "prevention": "फसल चक्र अपनाएं।"
+        },
+        "mr": {
+            "name": "मका करडा ठिपका",
+            "symptoms": "आयताकृती तपकिरी डाग.",
+            "treatment": "बुरशीनाशक फवारणी.",
+            "prevention": "पिकांची फेरपालट करा."
+        }
+    },
+    "Corn_(maize)___Common_rust_": {
+        "en": {
+            "name": "Corn Common Rust",
+            "symptoms": "Brick-red pustules on both leaf surfaces.",
+            "treatment": "Fungicide if detected early.",
+            "prevention": "Plant rust-resistant hybrids."
+        },
+        "hi": {
+            "name": "मक्का रस्ट (जंग)",
+            "symptoms": "पत्तियों पर ईंट-लाल रंग के छाले।",
+            "treatment": "जल्दी पता चलने पर फफूंदनाशक।",
+            "prevention": "प्रतिरोधी किस्में लगाएं।"
+        },
+        "mr": {
+            "name": "मका तांबेरा",
+            "symptoms": "पानांवर विटकरी रंगाचे फोड.",
+            "treatment": "लवकर आढळल्यास बुरशीनाशक.",
+            "prevention": "प्रतिरोधक जाती लावा."
+        }
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+        "en": {
+            "name": "Corn Northern Leaf Blight",
+            "symptoms": "Long, cigar-shaped grayish-green lesions.",
+            "treatment": "Apply fungicides.",
+            "prevention": "Resistant hybrids, plow under corn debris."
+        },
+        "hi": {
+            "name": "मक्का उत्तरी झुलसा",
+            "symptoms": "सिगार के आकार के भूरे-हरे घाव।",
+            "treatment": "फफूंदनाशक का प्रयोग करें।",
+            "prevention": "मक्के के अवशेषों को नष्ट करें।"
+        },
+        "mr": {
+            "name": "मका उत्तरी करपा",
+            "symptoms": "सिगारच्या आकाराचे करडे-हिरवे डाग.",
+            "treatment": "बुरशीनाशक वापरा.",
+            "prevention": "मक्याचे अवशेष नष्ट करा."
+        }
+    },
+    "Corn_(maize)___healthy": {
+        "en": {
+            "name": "Healthy Corn (maize)",
+            "symptoms": "Vibrant green leaves, robust stems, no visible lesions, discoloration, or fungal growth.",
+            "treatment": "No treatment needed. Maintain optimal growth conditions.",
+            "prevention": "Ensure proper spacing, regular watering at soil level, and balanced fertilization."
+        },
+        "hi": {
+            "name": "स्वस्थ Corn (maize)",
+            "symptoms": "चमकदार हरी पत्तियां, मजबूत तने, कोई धब्बे या बीमारी के लक्षण नहीं।",
+            "treatment": "किसी उपचार की आवश्यकता नहीं है।",
+            "prevention": "पौधों के बीच सही दूरी रखें, जड़ों में नियमित पानी दें और संतुलित खाद दें।"
+        },
+        "mr": {
+            "name": "निरोगी Corn (maize)",
+            "symptoms": "टवटवीत हिरवी पाने, मजबूत खोड, कोणताही डाग किंवा रोगाची लक्षणे नाहीत.",
+            "treatment": "कोणत्याही उपचाराची गरज नाही.",
+            "prevention": "रोपांमध्ये योग्य अंतर ठेवा, मुळांशी पाणी द्या आणि संतुलित खत द्या."
+        }
+    },
+    "Grape___Black_rot": {
+        "en": {
+            "name": "Grape Black Rot",
+            "symptoms": "Brown leaf spots, shriveled black berries.",
+            "treatment": "Mancozeb or Captan.",
+            "prevention": "Remove mummified berries, prune for air."
+        },
+        "hi": {
+            "name": "अंगूर काला सड़न",
+            "symptoms": "पत्तियों पर भूरे धब्बे, सिकुड़े हुए काले अंगूर।",
+            "treatment": "मैनकोज़ेब या कैप्टन।",
+            "prevention": "सिकुड़े फलों को हटाएं।"
+        },
+        "mr": {
+            "name": "द्राक्ष काळी सड",
+            "symptoms": "पानांवर तपकिरी डाग, सुकलेली काळी द्राक्षे.",
+            "treatment": "मँकोझेब किंवा कॅप्टन.",
+            "prevention": "सुकलेली फळे काढा."
+        }
+    },
+    "Grape___Esca_(Black_Measles)": {
+        "en": {
+            "name": "Grape Esca",
+            "symptoms": "Tiger-stripe pattern on leaves, dark spots on berries.",
+            "treatment": "No chemical cure; prune infected wood.",
+            "prevention": "Avoid large pruning wounds, sanitize tools."
+        },
+        "hi": {
+            "name": "अंगूर एस्का (ब्लैक मीजल्स)",
+            "symptoms": "पत्तियों पर बाघ-धारी पैटर्न।",
+            "treatment": "संक्रमित लकड़ी को काट दें।",
+            "prevention": "उपकरणों को साफ रखें।"
+        },
+        "mr": {
+            "name": "द्राक्ष एस्का",
+            "symptoms": "पानांवर वाघाच्या पट्ट्यांसारखी नक्षी.",
+            "treatment": "संक्रमित लाकूड कापा.",
+            "prevention": "अवजारे स्वच्छ ठेवा."
+        }
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "en": {
+            "name": "Grape Leaf Blight",
+            "symptoms": "Dark red to brown spots on leaves.",
+            "treatment": "Bordeaux mixture or copper fungicides.",
+            "prevention": "Remove fallen leaves, proper vine spacing."
+        },
+        "hi": {
+            "name": "अंगूर लीफ ब्लाइट",
+            "symptoms": "गहरे लाल से भूरे रंग के धब्बे।",
+            "treatment": "तांबा आधारित फफूंदनाशक।",
+            "prevention": "गिरी हुई पत्तियों को हटाएं।"
+        },
+        "mr": {
+            "name": "द्राक्ष करपा",
+            "symptoms": "गडद लाल ते तपकिरी डाग.",
+            "treatment": "तांबेयुक्त बुरशीनाशक.",
+            "prevention": "पडलेली पाने काढा."
+        }
+    },
+    "Grape___healthy": {
+        "en": {
+            "name": "Healthy Grape",
+            "symptoms": "Vibrant green leaves, robust stems, no visible lesions, discoloration, or fungal growth.",
+            "treatment": "No treatment needed. Maintain optimal growth conditions.",
+            "prevention": "Ensure proper spacing, regular watering at soil level, and balanced fertilization."
+        },
+        "hi": {
+            "name": "स्वस्थ Grape",
+            "symptoms": "चमकदार हरी पत्तियां, मजबूत तने, कोई धब्बे या बीमारी के लक्षण नहीं।",
+            "treatment": "किसी उपचार की आवश्यकता नहीं है।",
+            "prevention": "पौधों के बीच सही दूरी रखें, जड़ों में नियमित पानी दें और संतुलित खाद दें।"
+        },
+        "mr": {
+            "name": "निरोगी Grape",
+            "symptoms": "टवटवीत हिरवी पाने, मजबूत खोड, कोणताही डाग किंवा रोगाची लक्षणे नाहीत.",
+            "treatment": "कोणत्याही उपचाराची गरज नाही.",
+            "prevention": "रोपांमध्ये योग्य अंतर ठेवा, मुळांशी पाणी द्या आणि संतुलित खत द्या."
+        }
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+        "en": {
+            "name": "Citrus Greening (HLB)",
+            "symptoms": "Mottled yellow leaves, bitter misshapen fruit.",
+            "treatment": "No cure. Remove infected trees.",
+            "prevention": "Control Asian citrus psyllid insects."
+        },
+        "hi": {
+            "name": "सिट्रस ग्रीनिंग",
+            "symptoms": "पीली पत्तियां, कड़वे फल।",
+            "treatment": "कोई इलाज नहीं। पेड़ को हटा दें।",
+            "prevention": "कीट नियंत्रण करें।"
+        },
+        "mr": {
+            "name": "सिट्रस ग्रीनिंग",
+            "symptoms": "पिवळी पाने, कडू फळे.",
+            "treatment": "इलाज नाही. झाड काढा.",
+            "prevention": "कीटक नियंत्रण करा."
+        }
+    },
+    "Peach___Bacterial_spot": {
+        "en": {
+            "name": "Peach Bacterial Spot",
+            "symptoms": "Water-soaked spots turning purple-black, leaves drop.",
+            "treatment": "Copper-based sprays before bud break.",
+            "prevention": "Plant resistant varieties, maintain tree health."
+        },
+        "hi": {
+            "name": "आड़ू बैक्टीरियल स्पॉट",
+            "symptoms": "बैंगनी-काले धब्बे, पत्तियों का गिरना।",
+            "treatment": "तांबे का छिड़काव।",
+            "prevention": "प्रतिरोधी किस्में लगाएं।"
+        },
+        "mr": {
+            "name": "पीच जिवाणू ठिपका",
+            "symptoms": "जांभळे-काळे डाग, पाने गळणे.",
+            "treatment": "तांबेयुक्त फवारणी.",
+            "prevention": "प्रतिरोधक जाती लावा."
+        }
+    },
+    "Peach___healthy": {
+        "en": {
+            "name": "Healthy Peach",
+            "symptoms": "Vibrant green leaves, robust stems, no visible lesions, discoloration, or fungal growth.",
+            "treatment": "No treatment needed. Maintain optimal growth conditions.",
+            "prevention": "Ensure proper spacing, regular watering at soil level, and balanced fertilization."
+        },
+        "hi": {
+            "name": "स्वस्थ Peach",
+            "symptoms": "चमकदार हरी पत्तियां, मजबूत तने, कोई धब्बे या बीमारी के लक्षण नहीं।",
+            "treatment": "किसी उपचार की आवश्यकता नहीं है।",
+            "prevention": "पौधों के बीच सही दूरी रखें, जड़ों में नियमित पानी दें और संतुलित खाद दें।"
+        },
+        "mr": {
+            "name": "निरोगी Peach",
+            "symptoms": "टवटवीत हिरवी पाने, मजबूत खोड, कोणताही डाग किंवा रोगाची लक्षणे नाहीत.",
+            "treatment": "कोणत्याही उपचाराची गरज नाही.",
+            "prevention": "रोपांमध्ये योग्य अंतर ठेवा, मुळांशी पाणी द्या आणि संतुलित खत द्या."
+        }
+    },
+    "Pepper,_bell___Bacterial_spot": {
+        "en": {
+            "name": "Bell Pepper Bacterial Spot",
+            "symptoms": "Small brown/black spots on leaves and fruit.",
+            "treatment": "Copper bactericides.",
+            "prevention": "Use disease-free seeds, avoid overhead watering."
+        },
+        "hi": {
+            "name": "शिमला मिर्च बैक्टीरियल स्पॉट",
+            "symptoms": "पत्तियों और फलों पर छोटे भूरे/काले धब्बे।",
+            "treatment": "तांबे वाले जीवाणुनाशक।",
+            "prevention": "रोग मुक्त बीज का उपयोग करें।"
+        },
+        "mr": {
+            "name": "भोपळी मिरची जिवाणू ठिपका",
+            "symptoms": "पानांवर आणि फळांवर लहान तपकिरी/काळे डाग.",
+            "treatment": "तांबेयुक्त जिवाणूनाशक.",
+            "prevention": "रोगमुक्त बियाणे वापरा."
+        }
+    },
+    "Pepper,_bell___healthy": {
+        "en": {
+            "name": "Healthy Pepper, bell",
+            "symptoms": "Vibrant green leaves, robust stems, no visible lesions, discoloration, or fungal growth.",
+            "treatment": "No treatment needed. Maintain optimal growth conditions.",
+            "prevention": "Ensure proper spacing, regular watering at soil level, and balanced fertilization."
+        },
+        "hi": {
+            "name": "स्वस्थ Pepper, bell",
+            "symptoms": "चमकदार हरी पत्तियां, मजबूत तने, कोई धब्बे या बीमारी के लक्षण नहीं।",
+            "treatment": "किसी उपचार की आवश्यकता नहीं है।",
+            "prevention": "पौधों के बीच सही दूरी रखें, जड़ों में नियमित पानी दें और संतुलित खाद दें।"
+        },
+        "mr": {
+            "name": "निरोगी Pepper, bell",
+            "symptoms": "टवटवीत हिरवी पाने, मजबूत खोड, कोणताही डाग किंवा रोगाची लक्षणे नाहीत.",
+            "treatment": "कोणत्याही उपचाराची गरज नाही.",
+            "prevention": "रोपांमध्ये योग्य अंतर ठेवा, मुळांशी पाणी द्या आणि संतुलित खत द्या."
+        }
+    },
+    "Potato___Early_blight": {
+        "en": {
+            "name": "Potato Early Blight",
+            "symptoms": "Target-like concentric rings on older leaves.",
+            "treatment": "Chlorothalonil or Mancozeb.",
+            "prevention": "Crop rotation, proper nitrogen fertilization."
+        },
+        "hi": {
+            "name": "आलू अगेती झुलसा",
+            "symptoms": "पुरानी पत्तियों पर संकेंद्री छल्ले।",
+            "treatment": "मैनकोज़ेब का छिड़काव।",
+            "prevention": "फसल चक्र अपनाएं।"
+        },
+        "mr": {
+            "name": "बटाटा अगेती करपा",
+            "symptoms": "जुन्या पानांवर गोलाकार कड्यांसारखे डाग.",
+            "treatment": "मँकोझेब फवारणी.",
+            "prevention": "पिकांची फेरपालट करा."
+        }
+    },
+    "Potato___Late_blight": {
+        "en": {
+            "name": "Potato Late Blight",
+            "symptoms": "Water-soaked lesions, white fungal growth on undersides.",
+            "treatment": "Apply specific late blight fungicides immediately.",
+            "prevention": "Destroy cull piles, use certified seed potatoes."
+        },
+        "hi": {
+            "name": "आलू पछेती झुलसा",
+            "symptoms": "पानी से भीगे हुए घाव, सफेद फफूंद।",
+            "treatment": "तुरंत फफूंदनाशक लगाएं।",
+            "prevention": "प्रमाणित बीजों का उपयोग करें।"
+        },
+        "mr": {
+            "name": "बटाटा पछेती करपा",
+            "symptoms": "पाण्याने भिजलेले डाग, पांढरी बुरशी.",
+            "treatment": "त्वरित बुरशीनाशक फवारा.",
+            "prevention": "प्रमाणित बियाणे वापरा."
+        }
+    },
+    "Potato___healthy": {
+        "en": {
+            "name": "Healthy Potato",
+            "symptoms": "Vibrant green leaves, robust stems, no visible lesions, discoloration, or fungal growth.",
+            "treatment": "No treatment needed. Maintain optimal growth conditions.",
+            "prevention": "Ensure proper spacing, regular watering at soil level, and balanced fertilization."
+        },
+        "hi": {
+            "name": "स्वस्थ Potato",
+            "symptoms": "चमकदार हरी पत्तियां, मजबूत तने, कोई धब्बे या बीमारी के लक्षण नहीं।",
+            "treatment": "किसी उपचार की आवश्यकता नहीं है।",
+            "prevention": "पौधों के बीच सही दूरी रखें, जड़ों में नियमित पानी दें और संतुलित खाद दें।"
+        },
+        "mr": {
+            "name": "निरोगी Potato",
+            "symptoms": "टवटवीत हिरवी पाने, मजबूत खोड, कोणताही डाग किंवा रोगाची लक्षणे नाहीत.",
+            "treatment": "कोणत्याही उपचाराची गरज नाही.",
+            "prevention": "रोपांमध्ये योग्य अंतर ठेवा, मुळांशी पाणी द्या आणि संतुलित खत द्या."
+        }
+    },
+    "Raspberry___healthy": {
+        "en": {
+            "name": "Healthy Raspberry",
+            "symptoms": "Vibrant green leaves, robust stems, no visible lesions, discoloration, or fungal growth.",
+            "treatment": "No treatment needed. Maintain optimal growth conditions.",
+            "prevention": "Ensure proper spacing, regular watering at soil level, and balanced fertilization."
+        },
+        "hi": {
+            "name": "स्वस्थ Raspberry",
+            "symptoms": "चमकदार हरी पत्तियां, मजबूत तने, कोई धब्बे या बीमारी के लक्षण नहीं।",
+            "treatment": "किसी उपचार की आवश्यकता नहीं है।",
+            "prevention": "पौधों के बीच सही दूरी रखें, जड़ों में नियमित पानी दें और संतुलित खाद दें।"
+        },
+        "mr": {
+            "name": "निरोगी Raspberry",
+            "symptoms": "टवटवीत हिरवी पाने, मजबूत खोड, कोणताही डाग किंवा रोगाची लक्षणे नाहीत.",
+            "treatment": "कोणत्याही उपचाराची गरज नाही.",
+            "prevention": "रोपांमध्ये योग्य अंतर ठेवा, मुळांशी पाणी द्या आणि संतुलित खत द्या."
+        }
+    },
+    "Soybean___healthy": {
+        "en": {
+            "name": "Healthy Soybean",
+            "symptoms": "Vibrant green leaves, robust stems, no visible lesions, discoloration, or fungal growth.",
+            "treatment": "No treatment needed. Maintain optimal growth conditions.",
+            "prevention": "Ensure proper spacing, regular watering at soil level, and balanced fertilization."
+        },
+        "hi": {
+            "name": "स्वस्थ Soybean",
+            "symptoms": "चमकदार हरी पत्तियां, मजबूत तने, कोई धब्बे या बीमारी के लक्षण नहीं।",
+            "treatment": "किसी उपचार की आवश्यकता नहीं है।",
+            "prevention": "पौधों के बीच सही दूरी रखें, जड़ों में नियमित पानी दें और संतुलित खाद दें।"
+        },
+        "mr": {
+            "name": "निरोगी Soybean",
+            "symptoms": "टवटवीत हिरवी पाने, मजबूत खोड, कोणताही डाग किंवा रोगाची लक्षणे नाहीत.",
+            "treatment": "कोणत्याही उपचाराची गरज नाही.",
+            "prevention": "रोपांमध्ये योग्य अंतर ठेवा, मुळांशी पाणी द्या आणि संतुलित खत द्या."
+        }
+    },
+    "Squash___Powdery_mildew": {
+        "en": {
+            "name": "Squash Powdery Mildew",
+            "symptoms": "White powdery spots on leaves and stems.",
+            "treatment": "Neem oil or sulfur sprays.",
+            "prevention": "Plant in full sun, space for airflow."
+        },
+        "hi": {
+            "name": "स्क्वैश चूर्णी फफूंदी",
+            "symptoms": "सफेद पाउडर वाले धब्बे।",
+            "treatment": "नीम का तेल या सल्फर।",
+            "prevention": "हवा के प्रवाह के लिए जगह छोड़ें।"
+        },
+        "mr": {
+            "name": "स्क्वाश भुरी रोग",
+            "symptoms": "पांढरे पावडरसारखे डाग.",
+            "treatment": "कडुलिंबाचे तेल किंवा गंधक.",
+            "prevention": "हवा खेळती राहण्यासाठी जागा सोडा."
+        }
+    },
+    "Strawberry___Leaf_scorch": {
+        "en": {
+            "name": "Strawberry Leaf Scorch",
+            "symptoms": "Purple blotches that coalesce, leaves curl and burn.",
+            "treatment": "Fungicides containing Captan.",
+            "prevention": "Remove dead leaves, ensure good drainage."
+        },
+        "hi": {
+            "name": "स्ट्रॉबेरी लीफ स्कॉर्च",
+            "symptoms": "बैंगनी धब्बे, पत्तियां मुड़कर जल जाती हैं।",
+            "treatment": "कैप्टन वाले फफूंदनाशक।",
+            "prevention": "सूखी पत्तियां हटा दें।"
+        },
+        "mr": {
+            "name": "स्ट्रॉबेरी लीफ स्कॉर्च",
+            "symptoms": "जांभळे डाग, पाने वळतात आणि जळतात.",
+            "treatment": "कॅप्टनयुक्त बुरशीनाशक.",
+            "prevention": "सुकी पाने काढा."
+        }
+    },
+    "Strawberry___healthy": {
+        "en": {
+            "name": "Healthy Strawberry",
+            "symptoms": "Vibrant green leaves, robust stems, no visible lesions, discoloration, or fungal growth.",
+            "treatment": "No treatment needed. Maintain optimal growth conditions.",
+            "prevention": "Ensure proper spacing, regular watering at soil level, and balanced fertilization."
+        },
+        "hi": {
+            "name": "स्वस्थ Strawberry",
+            "symptoms": "चमकदार हरी पत्तियां, मजबूत तने, कोई धब्बे या बीमारी के लक्षण नहीं।",
+            "treatment": "किसी उपचार की आवश्यकता नहीं है।",
+            "prevention": "पौधों के बीच सही दूरी रखें, जड़ों में नियमित पानी दें और संतुलित खाद दें।"
+        },
+        "mr": {
+            "name": "निरोगी Strawberry",
+            "symptoms": "टवटवीत हिरवी पाने, मजबूत खोड, कोणताही डाग किंवा रोगाची लक्षणे नाहीत.",
+            "treatment": "कोणत्याही उपचाराची गरज नाही.",
+            "prevention": "रोपांमध्ये योग्य अंतर ठेवा, मुळांशी पाणी द्या आणि संतुलित खत द्या."
+        }
+    },
+    "Tomato___Bacterial_spot": {
+        "en": {
+            "name": "Tomato Bacterial Spot",
+            "symptoms": "Small, water-soaked, greasy spots on leaves.",
+            "treatment": "Copper sprays.",
+            "prevention": "Crop rotation, avoid working with wet plants."
+        },
+        "hi": {
+            "name": "टमाटर बैक्टीरियल स्पॉट",
+            "symptoms": "पत्तियों पर चिकने, पानी से भीगे धब्बे।",
+            "treatment": "तांबे का छिड़काव।",
+            "prevention": "गीले पौधों के साथ काम करने से बचें।"
+        },
+        "mr": {
+            "name": "टोमॅटो जिवाणू ठिपका",
+            "symptoms": "पानांवर तेलकट, पाण्याने भिजलेले डाग.",
+            "treatment": "तांबे फवारणी.",
+            "prevention": "ओल्या रोपांसोबत काम करणे टाळा."
+        }
+    },
+    "Tomato___Early_blight": {
+        "en": {
+            "name": "Tomato Early Blight",
+            "symptoms": "Bulls-eye shaped spots on lower leaves.",
+            "treatment": "Mancozeb or Copper fungicides.",
+            "prevention": "Mulch around base, water at roots."
+        },
+        "hi": {
+            "name": "टमाटर अगेती झुलसा",
+            "symptoms": "निचली पत्तियों पर बुल्स-आई (लक्ष्य) आकार के धब्बे।",
+            "treatment": "मैनकोज़ेब या तांबे का छिड़काव।",
+            "prevention": "जड़ों में पानी दें।"
+        },
+        "mr": {
+            "name": "टोमॅटो अगेती करपा",
+            "symptoms": "खालच्या पानांवर लक्ष्यासारखे डाग.",
+            "treatment": "मँकोझेब किंवा तांबे फवारणी.",
+            "prevention": "मुळांशी पाणी द्या."
+        }
+    },
+    "Tomato___Late_blight": {
+        "en": {
+            "name": "Tomato Late Blight",
+            "symptoms": "Large, dark, water-soaked patches, rapid death.",
+            "treatment": "Chlorothalonil immediately.",
+            "prevention": "Keep foliage dry, destroy infected plants."
+        },
+        "hi": {
+            "name": "टमाटर पछेती झुलसा",
+            "symptoms": "बड़े, गहरे धब्बे, पौधे की तेजी से मृत्यु।",
+            "treatment": "तुरंत क्लोरोथालोनिल का प्रयोग करें।",
+            "prevention": "संक्रमित पौधों को नष्ट करें।"
+        },
+        "mr": {
+            "name": "टोमॅटो पछेती करपा",
+            "symptoms": "मोठे, गडद डाग, रोप लवकर मरणे.",
+            "treatment": "त्वरित क्लोरोथालोनिल वापरा.",
+            "prevention": "संक्रमित रोपे नष्ट करा."
+        }
+    },
+    "Tomato___Leaf_Mold": {
+        "en": {
+            "name": "Tomato Leaf Mold",
+            "symptoms": "Pale green/yellow spots on top, olive-green mold below.",
+            "treatment": "Improve ventilation, apply fungicides.",
+            "prevention": "Reduce humidity in greenhouses."
+        },
+        "hi": {
+            "name": "टमाटर लीफ मोल्ड",
+            "symptoms": "पत्तियों के नीचे हरे रंग की फफूंद।",
+            "treatment": "वेंटिलेशन सुधारें, फफूंदनाशक लगाएं।",
+            "prevention": "नमी कम करें।"
+        },
+        "mr": {
+            "name": "टोमॅटो लीफ मोल्ड",
+            "symptoms": "पानांच्या खाली हिरवी बुरशी.",
+            "treatment": "हवा खेळती ठेवा, बुरशीनाशक लावा.",
+            "prevention": "आर्द्रता कमी करा."
+        }
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "en": {
+            "name": "Tomato Septoria Leaf Spot",
+            "symptoms": "Small circular spots with dark borders and gray centers.",
+            "treatment": "Chlorothalonil or Mancozeb.",
+            "prevention": "Crop rotation, remove debris."
+        },
+        "hi": {
+            "name": "टमाटर सेप्टोरिया लीफ स्पॉट",
+            "symptoms": "गहरे किनारों वाले छोटे गोल धब्बे।",
+            "treatment": "मैनकोज़ेब का प्रयोग।",
+            "prevention": "कचरा हटाएं।"
+        },
+        "mr": {
+            "name": "टोमॅटो सेप्टोरिया लीफ स्पॉट",
+            "symptoms": "गडद कडा असलेले लहान गोल डाग.",
+            "treatment": "मँकोझेब वापरा.",
+            "prevention": "कचरा काढा."
+        }
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+        "en": {
+            "name": "Tomato Spider Mites",
+            "symptoms": "Tiny yellow speckles on leaves, fine webbing.",
+            "treatment": "Miticide or Neem oil.",
+            "prevention": "Keep plants well-watered, wash leaves."
+        },
+        "hi": {
+            "name": "टमाटर स्पाइडर माइट्स",
+            "symptoms": "पत्तियों पर जाले और पीले धब्बे।",
+            "treatment": "नीम का तेल।",
+            "prevention": "पौधों को अच्छी तरह पानी दें।"
+        },
+        "mr": {
+            "name": "टोमॅटो कोळी (स्पायडर माइट्स)",
+            "symptoms": "पानांवर जाळे आणि पिवळे डाग.",
+            "treatment": "कडुलिंबाचे तेल.",
+            "prevention": "रोपांना चांगले पाणी द्या."
+        }
+    },
+    "Tomato___Target_Spot": {
+        "en": {
+            "name": "Tomato Target Spot",
+            "symptoms": "Concentric ring spots on leaves and fruit.",
+            "treatment": "Apply fungicides.",
+            "prevention": "Good airflow, avoid overhead watering."
+        },
+        "hi": {
+            "name": "टमाटर टारगेट स्पॉट",
+            "symptoms": "पत्तियों और फलों पर छल्लेदार धब्बे।",
+            "treatment": "फफूंदनाशक का प्रयोग।",
+            "prevention": "हवा का अच्छा प्रवाह रखें।"
+        },
+        "mr": {
+            "name": "टोमॅटो टार्गेट स्पॉट",
+            "symptoms": "पानांवर आणि फळांवर कड्यांसारखे डाग.",
+            "treatment": "बुरशीनाशक वापरा.",
+            "prevention": "हवा खेळती ठेवा."
+        }
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "en": {
+            "name": "Tomato Yellow Leaf Curl",
+            "symptoms": "Yellowed, upward-curled leaves, stunted growth.",
+            "treatment": "No cure, remove plant.",
+            "prevention": "Control whitefly vectors."
+        },
+        "hi": {
+            "name": "टमाटर पीला पत्ता मरोड़ वायरस",
+            "symptoms": "पीली, ऊपर की ओर मुड़ी हुई पत्तियां।",
+            "treatment": "कोई इलाज नहीं, पौधा हटा दें।",
+            "prevention": "सफेद मक्खियों को रोकें।"
+        },
+        "mr": {
+            "name": "टोमॅटो पिवळी पाने गुंडाळणारा विषाणू",
+            "symptoms": "पिवळी, वरच्या बाजूला वळलेली पाने.",
+            "treatment": "इलाज नाही, रोप काढा.",
+            "prevention": "पांढऱ्या माश्यांवर नियंत्रण ठेवा."
+        }
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "en": {
+            "name": "Tomato Mosaic Virus",
+            "symptoms": "Mottled light and dark green leaves, distorted growth.",
+            "treatment": "No cure, destroy infected plants.",
+            "prevention": "Wash hands/tools, plant resistant varieties."
+        },
+        "hi": {
+            "name": "टमाटर मोज़ेक वायरस",
+            "symptoms": "हल्की और गहरी हरी चितकबरे पत्तियां।",
+            "treatment": "कोई इलाज नहीं, नष्ट करें।",
+            "prevention": "हाथ और उपकरण धोएं।"
+        },
+        "mr": {
+            "name": "टोमॅटो मोझॅक विषाणू",
+            "symptoms": "फिकट आणि गडद हिरवी ठिपकेदार पाने.",
+            "treatment": "इलाज नाही, नष्ट करा.",
+            "prevention": "हात आणि अवजारे धुवा."
+        }
+    },
+    "Tomato___healthy": {
+        "en": {
+            "name": "Healthy Tomato",
+            "symptoms": "Vibrant green leaves, robust stems, no visible lesions, discoloration, or fungal growth.",
+            "treatment": "No treatment needed. Maintain optimal growth conditions.",
+            "prevention": "Ensure proper spacing, regular watering at soil level, and balanced fertilization."
+        },
+        "hi": {
+            "name": "स्वस्थ Tomato",
+            "symptoms": "चमकदार हरी पत्तियां, मजबूत तने, कोई धब्बे या बीमारी के लक्षण नहीं।",
+            "treatment": "किसी उपचार की आवश्यकता नहीं है।",
+            "prevention": "पौधों के बीच सही दूरी रखें, जड़ों में नियमित पानी दें और संतुलित खाद दें।"
+        },
+        "mr": {
+            "name": "निरोगी Tomato",
+            "symptoms": "टवटवीत हिरवी पाने, मजबूत खोड, कोणताही डाग किंवा रोगाची लक्षणे नाहीत.",
+            "treatment": "कोणत्याही उपचाराची गरज नाही.",
+            "prevention": "रोपांमध्ये योग्य अंतर ठेवा, मुळांशी पाणी द्या आणि संतुलित खत द्या."
+        }
+    }
+}

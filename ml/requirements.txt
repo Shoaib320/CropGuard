@@ -1,0 +1,8 @@
+numpy==2.5.1
+matplotlib==3.11.1
+opencv-python==5.0.0.93
+# PyTorch and torchvision require a CUDA 12.8 build for this training setup.
+# Install with the platform-specific command from https://pytorch.org/get-started/locally/.
+torch==2.11.0
+torchvision==0.26.0
+tqdm==4.70.0

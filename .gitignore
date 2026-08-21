@@ -1,0 +1,35 @@
+# --- Datasets (too large for GitHub, download separately — see README) ---
+ml/data/
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+
+# --- Environment / secrets ---
+.env
+.env.local
+.env.*.local
+
+# --- Virtual environments ---
+backend/venv/
+ml/venv/
+
+# --- Node / Next.js ---
+node_modules/
+.next/
+out/
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+
+# --- Editor ---
+.vscode/
+.idea/
+backend/debug_base_img.png
+backend/debug_raw_heatmap.png
+backend/gradcam_output.png
+backend/gradcam_test.json
