@@ -24,13 +24,8 @@ Grad-CAM visualizations added a research finding on top of this: the model parti
 
 ## Live demo
 
-> 🎥 *Demo GIF / hosted link goes here*
+<img width="800" height="446" alt="Cropguard" src="https://github.com/user-attachments/assets/824be9e9-94d2-42d2-b1c7-266da08a35c1" />
 
-| Overview | Scan → Predict → Grad-CAM | Scan History |
-|---|---|---|
-| *screenshot* | *screenshot* | *screenshot* |
-
----
 
 ## Architecture
 
