@@ -262,4 +262,6 @@ Built by **Shoaib** — final-year B.E. IT student, Shree L.R. Tiwari College of
 
 ## License
 
-*Add a license (e.g. MIT) here before making the repo public.*
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
